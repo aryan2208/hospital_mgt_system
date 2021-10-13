@@ -1,2 +1,3 @@
-# hospital_mgt_system
-A management System for Hospital DBS
+# hospital-management-system
+an online hospital management system
+It uses XAMPP , PHPMYADMIN ,HTML ,CSS AND JS
